@@ -2,7 +2,7 @@
 
 (This uses weave networking on azure)
 
-Create the infrastructure using the pulumi script in azure
+Create the infrastructure using the Pulumi script in azure
 
 Update ssh keys on the nodes
 
